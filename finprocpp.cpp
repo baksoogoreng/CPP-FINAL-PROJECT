@@ -126,7 +126,7 @@ int main()
 {   
     int pilihanmenu;
     vector<Panit> datapanit;
-    Panit panit1 = {"tasya aulia", "publikasi", 12, 13322, "08976445324"};
+    Panit panit1 = {"chiquita", "publikasi", 12, 13322, "08123432453"};
     datapanit.push_back(panit1);
     do{
         menu();
